@@ -1,9 +1,17 @@
 body {
+  min-height: 100vh;
+  margin: 0;
+
   background-color: black;
   background-image: url("IMG_5805.PNG");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+
+  color: white;
+  font-family: system-ui, sans-serif;
+  text-align: center;
+  padding-top: 50px;
 }
 
 h1 {
