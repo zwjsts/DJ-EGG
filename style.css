@@ -1,5 +1,7 @@
 body {
-  background: #111;
+  background: url("images/bg.jpg") no-repeat center center fixed;
+  background-size: cover;
+
   color: white;
   font-family: system-ui, sans-serif;
   text-align: center;
