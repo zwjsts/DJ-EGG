@@ -1,9 +1,8 @@
 // 音をまとめて管理する
 const sounds = {
-  base: new Audio("sounds/base.mp3"),
+  lead: new Audio("Egg lead.m4a"),
   drum: new Audio("Egg beat.m4a"),
   bass: new Audio("Egg bass.m4a"),
-  synth: new Audio("Egg lead.m4a"),
 };
 
 // すべてループ再生にする
