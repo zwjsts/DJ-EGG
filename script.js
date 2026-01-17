@@ -26,7 +26,6 @@ function toggleSound(id) {
 }
 
 // 各ボタンにクリックイベントを設定
-document.getElementById("base").onclick = () => toggleSound("base");
+document.getElementById("lead").onclick = () => toggleSound("lead");
 document.getElementById("drum").onclick = () => toggleSound("drum");
 document.getElementById("bass").onclick = () => toggleSound("bass");
-document.getElementById("synth").onclick = () => toggleSound("synth");
